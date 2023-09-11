@@ -1,3 +1,11 @@
+# COMP0158_ProjectCodeRL
+Submitted for MSc Data Science and Machine Learning Project
+
+This repository is by no means an original work from start. In fact, this is forked from https://github.com/Salesforce/CodeRL with minor modifications for the purpose of MSc project. 
+
+Please see `demo.ipynb` for our contribution made to the original work of CodeRL. 
+
+
 <p align="center">
   <img src="images/logo.jpg" width="50%">
 </p>
