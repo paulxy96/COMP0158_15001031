@@ -27,7 +27,7 @@ def generate_prompt(args, test_case_path, prompt_path, solutions_path, tokenizer
     _input += data
     
     if starter_path != None:
-        with open(starter_path, "r") as f:
+        with open(starter_path, "r", encoding="utf-8") as f:
             data = f.readlines()
             data = "".join(data)
             data = "\n" + data 
